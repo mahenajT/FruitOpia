@@ -112,6 +112,7 @@ span {
   background: transparent;
   font-size: 15px;
   font-weight: 600;
+  cursor: pointer;
 }
 .btn .primary-btn {
   background: linear-gradient(#fb7381, #f14a60);
